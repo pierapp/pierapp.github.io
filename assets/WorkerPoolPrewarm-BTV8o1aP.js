@@ -1,0 +1,2 @@
+import{$r as e,Jr as t,P as n,Xr as r,f as i,kt as a}from"./index-CmmbfpRb.js";var o=e(r(),1),s=t();function c(){let e=(0,o.useMemo)(()=>a(),[]);return(0,s.jsx)(n,{poolOptions:{workerFactory:i},highlighterOptions:{theme:e.theme,lineDiffType:e.lineDiffStyle},children:null})}export{c as WorkerPoolPrewarm};
+//# sourceMappingURL=WorkerPoolPrewarm-BTV8o1aP.js.map
